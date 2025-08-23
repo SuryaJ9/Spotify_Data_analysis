@@ -28,7 +28,7 @@ CREATE TABLE spotify (
     stream BIGINT,
     energy_liveness FLOAT,
     most_played_on VARCHAR(50)
-);```
+);
 
 ## Project Steps
 ### 1. Data Exploration
